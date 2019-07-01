@@ -1,0 +1,17 @@
+{
+  "name": "spat",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Redirecting app",
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "properties-reader": "^0.2.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
